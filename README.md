@@ -16,9 +16,12 @@ A robust Java Spring Boot application designed to streamline the job search and 
 - **Application Process**: Seamless job application system.
   - Automatic email notifications with interview details upon application submission
 
+- **Used Spring Security**
+
 - **CRUD Operations**: Full support for Create, Read, Update, and Delete operations for job listings and user profiles.
 
 ## Technical Stack
 
 - Java
 - Spring Boot
+- SQL
